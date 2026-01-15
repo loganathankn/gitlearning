@@ -1,1 +1,3 @@
-Hello , Am adding the file for my first commit
+Hello , Am adding the file for my first commit.
+
+Adding to chyeck bracnh protection rule
